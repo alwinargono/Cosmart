@@ -4,14 +4,14 @@ Pre-Req:
 2. have postman installed in your machine
 
 
-Open in any editor for this case i use visual studio code
-Open terminal in visual studio code
-In terminal type in go build
-then type in ./test
-if all is installed correctly the program will run and shows "Welcome to The Public Library" in the terminal
-now go to postman
-in the link type in http://localhost:8080/pickup or http://localhost:8080/getlist
-go to the body tab below the link and fill in the json field 
+1. Open in any editor for this case i use visual studio code
+2. Open terminal in visual studio code
+3. In terminal type in go build
+4. In terminal type in ./test
+5. if all is installed correctly the program will run and shows "Welcome to The Public Library" in the terminal
+6. now go to postman
+7. in the link type in http://localhost:8080/pickup or http://localhost:8080/getlist
+8. go to the body tab below the link and fill in the json field 
 <img width="1182" alt="Screenshot 2023-04-01 at 5 32 45 PM" src="https://user-images.githubusercontent.com/29112567/229282279-6ee40461-e7e1-4630-bbb3-a07f83f61163.png">
 
 use this for pickup:
